@@ -16,12 +16,12 @@ These are customizations that I use with the Atom Editor.
 
 ### Plugin Settings
 
+* Autosave: Enabled
+
 ## Themes
 
 * atom-material-syntax
 * atom-material-ui
-
-* Autosave: Enabled
 
 ## Settings
 
